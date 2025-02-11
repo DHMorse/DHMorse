@@ -19,6 +19,14 @@
 - 🔧 Tools: Git, SQL, Linux, VsCode, Kitty
 - 📦 Frameworks & Library's: Discord.py, Pygame, PIL, Flask, Numpy
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHMorse&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHMorse&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DHMorse&theme=tokyonight&no-frame=true&margin-w=5)
+![GitHub Contribution Snake](https://github.com/DHMorse/YourUsername/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" />
+![Profile Views](https://komarev.com/ghpvc/?username=DHMorse&color=blue&style=flat)
+
 
 <!--
 **DHMorse/DHMorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
