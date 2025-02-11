@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10.12-blue?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.21-00ADD8?style=flat&logo=go&logoColor=white)
 ![FOSS](https://img.shields.io/badge/-FOSS-important?style=flat&logo=opensourceinitiative&logoColor=white)
+![VLC](https://img.shields.io/badge/VLC-3.0-FF8800?style=flat&logo=vlc&logoColor=white)
 
 <table>
   <tr>
