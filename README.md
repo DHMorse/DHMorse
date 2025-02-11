@@ -5,7 +5,7 @@
 ![Debian](https://img.shields.io/badge/Distro-Debian-red?style=flat&logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10.12-blue?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.21-00ADD8?style=flat&logo=go&logoColor=white)
-![FOSS](https://img.shields.io/badge/-FOSS-important?style=flat&logo=opensourceinitiative&logoColor=white)
+![FOSS](https://img.shields.io/badge/-FOSS-3da639?style=flat&logo=opensourceinitiative&logoColor=white)
 
 <table>
   <tr>
@@ -13,7 +13,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight" height="165px"/>
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" height="165px"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" height="165px"/>💻️
     </td>
   </tr>
   <tr>
@@ -32,8 +32,8 @@
 📡 Running servers & tweaking software  
 
 ### 🛠️ Tech Stack
-- 💻 Languages: Python, Light: GO, Bash, Javascript, Html, Css
-- 🔧 Tools: Git, SQL, Linux, VsCode, Kitty
+- 💻️ Technologys: Git Bash SQL 
+- 🔧 Tools: Linux, VsCode, Kitty, Firefox
 - 📦 Frameworks & Library's: Discord.py, Pygame, PIL, Flask, Numpy
 
 <!--
