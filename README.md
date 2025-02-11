@@ -16,9 +16,9 @@
 </p>
 
 ### 🛠️ Tech Stack
-- 💻 Languages: Python, Light GO, Bash, Javascript, Html, Css
+- 💻 Languages: Python, Light: GO, Bash, Javascript, Html, Css
 - 🔧 Tools: Git, SQL, Linux, VsCode, Kitty
-- 📦 Frameworks: Flask, Discord API, PIL
+- 📦 Frameworks & Library's: Discord.py, Pygame, PIL, Flask, Numpy
 
 
 <!--
