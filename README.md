@@ -13,8 +13,6 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight" />
 </p>
 
-![snake gif](https://github.com/DHMorse/DHMorse/blob/output/github-contribution-grid-snake.svg)
-
 ### 🛠️ Tech Stack
 - 💻 Languages: Python, Light GO, Bash, Javascript, Html, Css
 - 🔧 Tools: Git, SQL, Linux, VsCode, Kitty
