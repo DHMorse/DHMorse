@@ -32,7 +32,7 @@
 📡 Running servers & tweaking software  
 
 ### 🛠️ Tech Stack
-- 💻️ Technologys: Git Bash SQL 
+- 💻️ Technologys: Git, Bash, SQL 
 - 🔧 Tools: Linux, VsCode, Kitty, Firefox
 - 📦 Frameworks & Library's: Discord.py, Pygame, PIL, Flask, Numpy
 
