@@ -8,23 +8,22 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DHMorse&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DHMorse&show_icons=true&theme=tokyonight" height="165px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHMorse&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHMorse&layout=compact&theme=tokyonight" height="165px"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight" />
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight" height="165px"/>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" />
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" height="165px"/>
     </td>
   </tr>
 </table>
+
 
 
 
