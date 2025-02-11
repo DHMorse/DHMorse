@@ -28,8 +28,6 @@
 
 
 👨‍💻 Developer | 🎮 Light Gamer | 💡 Tech Enthusiast  
-🔧 Building cool projects in mainly Python & Linux  
-📡 Running servers & tweaking software  
 
 ### 🛠️ Tech Stack
 - 💻️ Technologys: Git, Bash, SQL 
