@@ -5,8 +5,10 @@
 📡 Running servers & tweaking software  
 
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
-![Arch Linux](https://img.shields.io/badge/Distro-Arch-informational?style=flat&logo=archlinux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Distro-Linux%20Mint-green?style=flat&logo=linuxmint&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3-blue?style=flat&logo=python&logoColor=white)
+![FOSS](https://img.shields.io/badge/-FOSS-important?style=flat&logo=opensourceinitiative&logoColor=white)
+
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=DHMorse&show_icons=true&theme=tokyonight" />
