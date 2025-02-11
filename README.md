@@ -1,19 +1,18 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 
-👨‍💻 Developer | 🎮 Light Gamer | 💡 Tech Enthusiast  
-🔧 Building cool projects in mainly Python & Linux  
-📡 Running servers & tweaking software  
-
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Distro-Linux%20Mint-green?style=flat&logo=linuxmint&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3-blue?style=flat&logo=python&logoColor=white)
 ![FOSS](https://img.shields.io/badge/-FOSS-important?style=flat&logo=opensourceinitiative&logoColor=white)
 
-
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=DHMorse&show_icons=true&theme=tokyonight" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight" />
 </p>
+
+👨‍💻 Developer | 🎮 Light Gamer | 💡 Tech Enthusiast  
+🔧 Building cool projects in mainly Python & Linux  
+📡 Running servers & tweaking software  
 
 ### 🛠️ Tech Stack
 - 💻 Languages: Python, Light: GO, Bash, Javascript, Html, Css
