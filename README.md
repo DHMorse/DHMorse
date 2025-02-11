@@ -5,15 +5,27 @@
 ![Python](https://img.shields.io/badge/Python-3-blue?style=flat&logo=python&logoColor=white)
 ![FOSS](https://img.shields.io/badge/-FOSS-important?style=flat&logo=opensourceinitiative&logoColor=white)
 
-<!--<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=DHMorse&show_icons=true&theme=tokyonight" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight" />
-</p>-->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DHMorse&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHMorse&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHMorse&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHMorse&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" />
 
 
 👨‍💻 Developer | 🎮 Light Gamer | 💡 Tech Enthusiast  
