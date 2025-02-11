@@ -2,7 +2,9 @@
 
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Distro-Linux%20Mint-green?style=flat&logo=linuxmint&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3-blue?style=flat&logo=python&logoColor=white)
+![Debian](https://img.shields.io/badge/Distro-Debian-red?style=flat&logo=debian&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10.12-blue?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1.21-00ADD8?style=flat&logo=go&logoColor=white)
 ![FOSS](https://img.shields.io/badge/-FOSS-important?style=flat&logo=opensourceinitiative&logoColor=white)
 
 <table>
