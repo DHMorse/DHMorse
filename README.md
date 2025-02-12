@@ -13,7 +13,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHMorse&theme=tokyonight" height="165px"/>
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" height="165px"/>💻️
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHMorse&theme=tokyo-night" height="165px"/>
     </td>
   </tr>
   <tr>
