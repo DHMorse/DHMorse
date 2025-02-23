@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 
-![OS](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-70b43c?style=flat&logo=linuxmint&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![FOSS](https://img.shields.io/badge/FOSS-3da639?style=flat&logo=opensourceinitiative&logoColor=white)
+[![OS](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)](https://github.com/torvalds/linux)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-70b43c?style=flat&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
+[![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[![FOSS](https://img.shields.io/badge/FOSS-3da639?style=flat&logo=opensourceinitiative&logoColor=white)](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
 <table>
   <tr>
