@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 
-![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Distro-Linux%20Mint-70b43c?style=flat&logo=linuxmint&logoColor=white)
-![Debian](https://img.shields.io/badge/Distro-Debian-D70A53?style=flat&logo=debian&logoColor=white)
+![OS](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-70b43c?style=flat&logo=linuxmint&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![FOSS](https://img.shields.io/badge/FOSS-3da639?style=flat&logo=opensourceinitiative&logoColor=white)
