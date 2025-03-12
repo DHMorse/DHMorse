@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack
 - 💻️ Technologys: Git, Bash, SQL 
-- 🔧 Tools: Linux, Cursor, Kitty, Libre Wolf
+- 🔧 Tools: Linux, Cursor, MyPy, Kitty, Libre Wolf
 - 📦 Frameworks & Library's: Discord.py, Pygame, PIL, Flask, Numpy
 
 <!--
