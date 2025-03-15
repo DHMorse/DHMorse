@@ -22,9 +22,9 @@
 👨‍💻 Developer | 🎮 Light Gamer | 💡 Tech Enthusiast  
 
 ### 🛠️ Tech Stack
-- 💻️ Technologys: Git, Bash, SQL 
-- 🔧 Tools: Linux, Cursor, MyPy, Kitty, Libre Wolf
-- 📦 Frameworks & Library's: Discord.py, Pygame, PIL, Flask, Numpy
+- 💻️ Technologys: [Git](https://github.com/git/git), [Bash](https://www.gnu.org/software/bash/), [SQL](https://www.mysql.com/) 
+- 🔧 Tools: [Linux](https://github.com/torvalds/linux), [Cursor](https://www.cursor.com/), [mypy](https://github.com/python/mypy), [uv](https://github.com/astral-sh/uv), [Kitty](https://github.com/kovidgoyal/kitty), [Libre Wolf](https://codeberg.org/librewolf)
+- 📦 Frameworks & Library's: [Discord.py](https://github.com/Rapptz/discord.py), [Pygame](https://github.com/pygame/pygame), [Pillow](https://github.com/python-pillow/Pillow), [Flask](https://github.com/pallets/flask/), [Numpy](https://github.com/numpy/numpy)
 
 <!--
 **DHMorse/DHMorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
