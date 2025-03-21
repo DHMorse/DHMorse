@@ -3,6 +3,8 @@
 [![OS](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)](https://github.com/torvalds/linux)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-70b43c?style=flat&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)](https://nixos.org/)
+[![TrueNAS SCALE](https://img.shields.io/badge/TrueNAS%20SCALE-0095D5?style=flat&logo=truenas&logoColor=white)](https://www.truenas.com/truenas-scale/)
+[![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-C51A4A?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/software/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
